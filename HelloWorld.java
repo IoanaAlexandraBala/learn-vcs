@@ -1,4 +1,6 @@
 // learning VSC
+//learning to collaborate on git repositories
+
 public class HelloWorld {
 
 public static void main (String[] args) {
